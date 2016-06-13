@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chasing Performance]]></title>
+        <description><![CDATA[Chasing Performance]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 13 Jun 2016 02:16:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Destination Guide - Canada]]></title>
+            <description><![CDATA[<article><h1>Destination Guide - Canada</h1><p>Error Code: UNKNOWN Why go? Few places embrace their Grand Prix as enthusiastically as Montreal. The city grinds to a halt over the race weekend as fans from around the world descend on Quebec for a non-stop party. Formula One fever - street parties, driver appearances and F1 exhibitions - is focused in one area of town: Rue Ste Catherine.</p><img src="https://www.formula1.com/content/fom-website/en/championship/races/2016/Canada/Destination_Guide/_jcr_content/image16x9.img.1536.high.jpg"></article>]]></description>
+            <link>https://www.formula1.com/content/fom-website/en/championship/races/2016/Canada/Destination_Guide.html</link>
+            <guid isPermaLink="false">b0a53392-52b8-440a-8ac9-8b8cb8d3ae0f</guid>
+            <pubDate>Mon, 13 Jun 2016 02:14:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
