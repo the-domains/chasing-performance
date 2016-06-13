@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Chasing Performance]]></title>
         <description><![CDATA[Chasing Performance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chasing-performance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 21:06:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 13 Jun 2016 21:09:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chasing-performance/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Future Becomes]]></title>
+            <description><![CDATA[<article><h1>The Future Becomes</h1><p>sloanreview.mit.edu Eastman Kodak is often mischaracterized as a company whose managers didn't recognize soon enough that digital technology would decimate its traditional business. However, what really happened at Ko...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2059d8542d5541ed1dd533fa91365db6ee6f58c.png"></article>]]></description>
+            <link>http://paper.li/craigmarchand/1427233192</link>
+            <guid isPermaLink="false">73891226-c2ee-4c26-bd70-304ae029c8d8</guid>
+            <pubDate>Mon, 13 Jun 2016 21:09:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Canadian Statesman]]></title>
             <description><![CDATA[<article><h1>The Canadian Statesman</h1><p>images.dawn.com The Bangladeshi PM, a Saudi billionaire and the President of Mauritius are just a few Muslim women mentioned in Forbes 13th annual World's 100 Most Powerful Women and we couldn't be more proud. Acc...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2059d8542d5541ed1dd533fa91365db6ee6f58c.png"></article>]]></description>
