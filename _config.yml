@@ -1,4 +1,3 @@
-layout_spectrum: 0.9778096303343773
 typography_spectrum: 0.9517701815348119
 color:
   brandStrength: 0.6274370602332056
@@ -11,4 +10,9 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.9778096303343773
+author:
+  name: Craig Marchand
+  email: craig@craigmarchand.com
 name: Chasing Performance
+title: What matters to you.
