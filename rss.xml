@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Chasing Performance]]></title>
-        <description><![CDATA[Chasing Performance]]></description>
+        <title><![CDATA[What matters to you.]]></title>
+        <description><![CDATA[What matters to you.]]></description>
         <link>https://thegrid.ai/chasing-performance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 21:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 02:21:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chasing-performance/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Future Becomes]]></title>
@@ -12,13 +12,6 @@
             <link>http://paper.li/craigmarchand/1427233192</link>
             <guid isPermaLink="false">73891226-c2ee-4c26-bd70-304ae029c8d8</guid>
             <pubDate>Mon, 13 Jun 2016 21:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Canadian Statesman]]></title>
-            <description><![CDATA[<article><h1>The Canadian Statesman</h1><p>images.dawn.com The Bangladeshi PM, a Saudi billionaire and the President of Mauritius are just a few Muslim women mentioned in Forbes 13th annual World's 100 Most Powerful Women and we couldn't be more proud. Acc...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2059d8542d5541ed1dd533fa91365db6ee6f58c.png"></article>]]></description>
-            <link>https://paper.li/f-1317591495</link>
-            <guid isPermaLink="false">84455cb7-ed9b-4357-a001-d67abb8cdb81</guid>
-            <pubDate>Mon, 13 Jun 2016 21:06:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
