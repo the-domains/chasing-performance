@@ -1,18 +1,30 @@
-typography_spectrum: 0.9517701815348119
+author:
+  name: Craig Marchand
+  email: craig@craigmarchand.com
+title: What matters to you.
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
   brandStrength: 0.6274370602332056
-  lightness: 0.7552885077893734
-  saturation: 0.8627335557248443
-  rhythmicContrast: 0.2645482076331973
+  lightness: 0.327957
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-layout_spectrum: 0.9778096303343773
-author:
-  name: Craig Marchand
-  email: craig@craigmarchand.com
+  rhythmicContrast: 1
+typography_spectrum: 0.9982079
+layout_spectrum: 0.983871
 name: Chasing Performance
-title: What matters to you.
